@@ -1,0 +1,12 @@
+# ignore this
+bin/
+obj/
+packages/
+.vs/
+*.user
+*.suo
+*.cachefile
+*.mgcontent
+*.xnb
+TestResult.xml
+*VisualState.xml
